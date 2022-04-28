@@ -14,6 +14,7 @@ class Geekyshows
 			System.out.println("num:-"+i+"+"+num[i]);
 			
 		}
+		System.out.println("This is Programe for Array demonstration");
 
 	
 	}
