@@ -15,6 +15,8 @@ class Geekyshows
 			
 		}
 		System.out.println("This is Programe for Array demonstration");
+		System.out.println("Bye Bye");
+
 
 	
 	}
